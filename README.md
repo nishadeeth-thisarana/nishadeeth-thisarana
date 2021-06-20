@@ -1,7 +1,7 @@
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <img src = "https://telegra.ph/file/4cb04213f8cd0de073c2c.jpg"
-alt ="Wallpaper" width ="720" height ="350"
+alt ="Wallpaper" width ="640" height ="350"
 border ="0" align ="middle">
 
 <!--
